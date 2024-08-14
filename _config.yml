@@ -21,12 +21,12 @@ repository               : "zantee/zantee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie_German.jpg"
+  avatar           : "selfieGerman.jpg"
   name             : "Tianyu Zhang"
   pronouns         : # example: "he/him"  
   bio              : "A user and an explorer of the brain and mind"
   location         : "China"
-  university       : "Zhejiang University"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "tianyuzhang.zantee@gmail.com or 22239019@zju.edu.cn" 
 
