@@ -21,7 +21,7 @@ repository               : "zantee/zantee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfieGerman.jpg"
+  avatar           : "selfieGerman.png"
   name             : "Tianyu Zhang"
   pronouns         : # example: "he/him"  
   bio              : "A user and an explorer of the brain and mind"
