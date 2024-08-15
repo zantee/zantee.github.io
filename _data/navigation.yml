@@ -11,18 +11,20 @@
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  # - title: "Guide"
+  #   url: /markdown/
+
 main:
+  - title: "Research"
+    url: /research/
+  
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Conferences"
+    url: /conferences/        
   
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  
