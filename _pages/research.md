@@ -1,15 +1,10 @@
 ---
-permalink: /
-title: "About me"
+permalink: /research
+title: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Research/
 ---
-
-I'm a master student in psychology working with Dr.Yongchun Cai at Zhejiang University (Hangzhou, China). Currently, my reasearch mainly focuses on attention and its effect on visual perception. Prior to my master, I did research with mentoring of Dr.Jinmian Yang at Fudan University (Shanghai, China), exploring the eye-movement control mechanism underlying Chinese reading. I employ a combination of behavioral (psychophysics, eye-tracking) and neural (mainly fMRI) methods.
-
-My long-term interest is to understand the cognitive and neural interaction of perception, attention and memory. I .... 
 
 
 Getting started
