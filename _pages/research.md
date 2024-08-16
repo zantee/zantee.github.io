@@ -7,12 +7,19 @@ redirect_from:
 ---
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<center>**Selected research**</center>
+==========-----------------------------==========
+Currently, I'm mainly focusing on the first two projects
+1. How pre-saccadic attention shapes subjective contrast perception
+  low- vs. high-contrast level
+  the relationship with covert exogenous and endogenous attention
+  the visual asymmestry
+  Key words: attention, eye-movement, visual perception, psychophysics, eye-tracking
+1. the meso-scale neural mechanism of attentional effect on contrast appearance
+  How SC, LGN(M/P layer), and V1 account for the attentional modulation of contrast appearance.
+  Key words: attention, ultra high-field fMRI, visual perception
+1. How adult readers skip very-high-frequency structural particle in Chinese reading
+  Research in English reading have demonstrated that even for very-high-frequency structural particle "the", adult readers make skipping saccades of these "the"s based on both the semantic information in the sentence context and the frequency information in the para-foveal, within very short durations (~200-250 ms, the duration of a saccade in normal reading). However, Chinese is a totally different language compared with alphabetic language, e.g., with no space between characters and words, more visually complex characters. Whether Chinese readers can quickly integrate the contextual semantic information and the frequency information in parafoveal and use it to initiate saccade is debated. Our results showed that this is the case for Chinese readers, that is, they can integrate this two kinds of information to control their skipping saccades during reading.
+  Key words: eye-movement, reading, parafoveal processing, eye-tracking, psycholinguistics
+
 
