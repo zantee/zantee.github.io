@@ -17,9 +17,11 @@
   # - title: "Conferences"
   #   url: /conferences/  
 
+  # - title: "Research"
+  #   url: /research/
+
 main:
-  - title: "Research"
-    url: /research/
+  
   
   - title: "Publications"
     url: /publications/      
