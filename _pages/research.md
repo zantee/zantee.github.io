@@ -10,12 +10,14 @@ redirect_from:
 <center><b>Selected research</b></center>
 ==========-----------------------------==========
 Currently, I'm mainly focusing on the first two projects
-1. How pre-saccadic attention shapes subjective contrast perception </n>
+1. How pre-saccadic attention shapes subjective contrast perception  
+
   low- vs. high-contrast level
   the relationship with covert exogenous and endogenous attention
   the visual asymmestry
   Key words: attention, eye-movement, visual perception, psychophysics, eye-tracking
-1. the meso-scale neural mechanism of attentional effect on contrast appearance </n>
+1. the meso-scale neural mechanism of attentional effect on contrast appearance
+   </n>
   How SC, LGN(M/P layer), and V1 account for the attentional modulation of contrast appearance.
   Key words: attention, ultra high-field fMRI, visual perception </n>
 1. How adult readers skip very-high-frequency structural particle in Chinese reading </n>
